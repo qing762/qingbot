@@ -46,9 +46,9 @@ There is a official built instance for the bot. You can choose to host the bot y
 
 ## Installation
 
-###### The source here is provided for educational purposes for discord.py only. Nevertheless, the installation steps are as follows:
+__The source here is provided for educational purposes for discord.py only. Nevertheless, the installation steps are as follows:__
 
-Install qing Bot with git and pip
+Install qing Bot with git and pip:
 
 ```bash
   git clone https://github.com/qing762/qingbot
@@ -62,11 +62,11 @@ Install qing Bot with git and pip
 
 Some commands are removed from the code and are kept private due to privacy issues.
 
-#### Why not make the commands as cogs
+#### Why not make the commands as cogs?
 
 Sorry but Im just too lazy to do it.
 
-#### Do you plan to upload the bot to [TopGG](https://top.gg) / [Discord Bot List](https://discordbotlist.com/)
+#### Do you plan to upload the bot to [TopGG](https://top.gg) / [Discord Bot List](https://discordbotlist.com/)?
 
 https://top.gg/bot/926975122030596196
 
