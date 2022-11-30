@@ -60,7 +60,9 @@ Put your API tokens and credential information in the `.env` file. After that, t
 ```bash
   python main.py
 ```
-    
+
+Feel free to modify the codings. You can also make a [pull request](https://github.com/qing762/qingbot/pulls) or [DM me on Discord](https://discord.com/users/635765555277725696) to submit your codings (if you want to) and I might consider to add the command/code into the main bot and give credit to you!
+
 ## FAQ
 
 #### Some commands are not showed in the code!
