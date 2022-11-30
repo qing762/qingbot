@@ -53,7 +53,12 @@ Install qing Bot with git and pip:
 ```bash
   git clone https://github.com/qing762/qingbot
   pip install -r requirements.txt
-  python bot.py
+```
+
+Put your API tokens and credential information in the `.env` file. After that, to run the bot:
+
+```bash
+  python main.py
 ```
     
 ## FAQ
