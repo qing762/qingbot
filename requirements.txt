@@ -1,0 +1,12 @@
+aniso8601==9.0.1
+asyncpixel==1.4.0
+discord.py==2.1.0
+discord_together==1.2.6
+ossapi==2.4.1
+osu_tools==0.2.13
+popcat_wrapper==1.6
+pyshorteners==1.0.1
+python-dotenv==0.21.0
+requests==2.28.1
+skingrabber==0.1.6
+urlexpander==0.0.37
