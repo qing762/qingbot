@@ -22,8 +22,8 @@ You can see all commands by running `.help`
 
 
 ## API used
- - [Honor of Kings API](https://github.com/qing762/honor-of-kings-json)
  - [discord.py API](https://github.com/Rapptz/discord.py)
+ - [Honor of Kings API](https://github.com/qing762/honor-of-kings-json)
  - [popcat API](https://api.popcat.xyz/)
  - [Bananonz API](https://api.bananonz.dev/)
  - [Hypixel API](https://api.hypixel.net/)
@@ -71,7 +71,7 @@ Some commands are removed from the code and are kept private due to privacy issu
 
 #### Why not make the commands as cogs?
 
-Sorry but Im just too lazy to do it.
+WIP
 
 #### Do you plan to upload the bot to [TopGG](https://top.gg) / [Discord Bot List](https://discordbotlist.com/)?
 
