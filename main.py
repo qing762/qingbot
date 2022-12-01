@@ -135,7 +135,7 @@ async def userinfo(ctx, user: discord.User = None):
         if user == None:
             user = ctx.author
 
-        if guild.get_member(user.id) is not None:
+        elif guild.get_member(user.id) is not None:
             user: discord.Member
             joinedat = user.joined_at
             joinedtime = joinedat.strftime("%d/%m/%Y %H:%M:%S")
@@ -514,36 +514,6 @@ async def wangzherongyao(ctx, agentname = None):
                 embed.set_author(name=gannineh, url=l, icon_url=f"https://game.gtimg.cn/images/yxzj/img201606/heroimg/{shabi[0:3]}/{shabi[0:3]}.jpg")
                 embed.set_thumbnail(url=f"https://game.gtimg.cn/images/yxzj/img201606/heroimg/{shabi[0:3]}/{shabi[0:3]}-smallskin-2.jpg")
                 await msg.edit(content='', embed=embed)
-
-@bot.command(aliases=["eval", "exec", "execute"])
-async def _eval(ctx, *, code):
-    async with ctx.typing():
-        code = clean_code(code)
-
-        shabi = {
-            "discord": discord,
-            "commands": commands,
-            "bot": bot,
-            "ctx": ctx,
-            "channel": ctx.channel,
-            "author": ctx.author,
-            "guild": ctx.guild,
-            "message": ctx.message
-        }
-
-        stdout = io.StringIO()
-
-        try:
-            with contextlib.redirect_stdout(stdout):
-                exec(
-                    f"async def func():\n{textwrap.indent(code, '    ')}", shabi
-                )
-                obj = await shabi["func"]()
-                result = f"{stdout.getvalue()}\n-- {obj}\n"
-        except Exception as e:
-            result = "".join( format_exception(e, e, e.__traceback__))
-
-        await ctx.reply(f"```{result}```")
 
 @bot.command()
 async def prefix(ctx):
@@ -1876,7 +1846,7 @@ async def help(ctx):
         embed2.add_field(name="chat `{text}`", value="Chat with the bot! One-time use only for each time you sent the command.")
         embed2.add_field(name="whowouldwin `{@user1} (@user2)`", value="Make a WhoWouldWin meme")
         embed2.add_field(name="gun `(@user or <@id>)`", value="Get a perfect gun overlay on any profile picture")
-        embed2.add_field(name="reverse", value="Returns text but reversed")
+        embed2.add_field(name="reverse `{text}`", value="Returns text but reversed")
         embed2.add_field(name="ad `(@user or <@id>)`", value="Make someone an ad")
         embed2.add_field(name="blur `(@user or <@id>)`", value="Profile picture, but blured")
         embed2.add_field(name="doublestruck `{text}`", value="Convert your text into the doublestruck font")
