@@ -1,3 +1,5 @@
+# ***__This branch is no longer maintained as the bot was migrated to v2. Instead of using this branch, please use the `main` branch for more stability and up to date__***
+
 ![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)
 ![BUILT WITH PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)
 ![OPEN SOURCE](https://forthebadge.com/images/badges/open-source.svg)
