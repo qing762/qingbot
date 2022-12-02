@@ -85,7 +85,7 @@ or
 
 #### How x command works?
 
-Try and understand the code yourself.
+Try and understand the code yourself. (even though my code is very messy)
 
 
 ## Feedback
