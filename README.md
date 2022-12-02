@@ -33,6 +33,13 @@ You can see all commands by running `.help`
  - [Fifa World Cup 2022 API](https://github.com/raminmr/free-api-worldcup2022)
  - [VALORANT-API](https://valorant-api.com/)
  - [VALORANT API](https://github.com/Henrik-3/unofficial-valorant-api)
+ 
+ 
+
+## Thank you!
+
+I would like to thanks the members of [`Python Discord`](https://discord.gg/python/) that help me make the bot possible. You guys mean a lot to me!
+
 ## 🔗 Invitation links to the bot
 
 There is a official built instance for the bot. You can choose to host the bot yourself with the files given or invite the bot through one of the links below:
