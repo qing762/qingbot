@@ -38,7 +38,7 @@ You can see all commands by running `.help`
 
 ## Thank you!
 
-I would like to thanks the members of [`Python Discord`](https://discord.gg/python/) that help me make the bot possible. You guys mean a lot to me!
+I would like to thanks the members of [`Python Discord`](https://discord.gg/python) that help me make the bot possible. You guys mean a lot to me!
 
 ## 🔗 Invitation links to the bot
 
