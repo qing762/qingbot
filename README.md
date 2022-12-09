@@ -13,13 +13,13 @@ A discord bot coded in Python that I made as a hobby. Used my previous bot's cod
 
 You can see all commands by running `.help`
 
-![App Screenshot](https://cdn.discordapp.com/attachments/995904492988006531/1047434269024338021/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765637166845982/image.png)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/995904492988006531/1047434925198028821/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765608481988738/image.png)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/995904492988006531/1047434925562921021/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765868205871114/image.png)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/995904492988006531/1047434925881692190/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050767498930311188/image.png)
 
 
 
