@@ -1,3 +1,5 @@
+# ```v2 is finally here!```
+
 ![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)
 ![BUILT WITH PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)
 ![OPEN SOURCE](https://forthebadge.com/images/badges/open-source.svg)
@@ -65,7 +67,7 @@ Install qing Bot with git and pip:
 Put your API tokens and credential information in the `.env` file. After that, to run the bot:
 
 ```bash
-  python main.py
+  python qingbot.py
 ```
 
 Feel free to modify the codings. You can also make a [pull request](https://github.com/qing762/qingbot/pulls) or [DM me on Discord](https://discord.com/users/635765555277725696) to submit your codings (if you want to) and I might consider to add the command/code into the main bot and give credit to you!
