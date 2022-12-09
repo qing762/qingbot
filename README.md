@@ -1,4 +1,4 @@
-# ```v2 is finally here!```
+# ```v2 is finally here!!!```
 
 ![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)
 ![BUILT WITH PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)
