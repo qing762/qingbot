@@ -26,6 +26,7 @@ You can see all commands by running `.help`
 ## API used
  - [discord.py API](https://github.com/Rapptz/discord.py)
  - [Honor of Kings API](https://github.com/qing762/honor-of-kings-json)
+ - [osu! API](https://osu.ppy.sh/api)
  - [popcat API](https://api.popcat.xyz/)
  - [Bananonz API](https://api.bananonz.dev/)
  - [Hypixel API](https://api.hypixel.net/)
