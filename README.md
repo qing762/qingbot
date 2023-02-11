@@ -81,7 +81,7 @@ Some commands are removed from the code and are kept private due to privacy issu
 
 #### Why not make the commands as cogs?
 
-WIP
+It is now. Cogs are available in the V2 version!
 
 #### Do you plan to upload the bot to [TopGG](https://top.gg) / [Discord Bot List](https://discordbotlist.com/)?
 
