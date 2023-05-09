@@ -1,4 +1,12 @@
-# ```v2 is finally here!!!```
+> :warning: **Update attention for qingBot**: Please be advised that our bot will be undergoing an update in early June 2023 to comply with Discord's unique username update. Do expect some new commands may be added to the bot. Please note that some downtime for the bot may occur during the update period. Thanks for your patience! In the meantime, you may consider cloning the bot for temporary usage.
+
+<div align="center">
+  <table>
+    <tr>
+     <th>v2 is finally here!!!</th>
+  </table>
+</div>
+
 
 ![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)
 ![BUILT WITH PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)
@@ -13,14 +21,17 @@ A discord bot coded in Python that I made as a hobby. Used my previous bot's cod
 
 You can see all commands by running `.help`
 
-![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765637166845982/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105382992492367893/image.png)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765608481988738/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105382992727265302/image.png)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050765868205871114/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105383304376635462/image.png?width=525&height=663)
 ---
-![App Screenshot](https://media.discordapp.net/attachments/1044196358556483587/1050767498930311188/image.png)
-
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105382993171845191/image.png)
+---
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105382993394159626/image.png?width=384&height=664)
+---
+![App Screenshot](https://media.discordapp.net/attachments/1040929989652127776/1105382993612255282/image.png?width=375&height=663)
 
 
 ## API used
