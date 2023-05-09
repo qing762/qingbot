@@ -33,7 +33,7 @@ def get_prefix(bot, message):
   else:
     return commands.when_mentioned_or(".")(bot, message)
 
-actstream = discord.Streaming(name="w gaming", url="https://twitch.tv/qing762", platform="Twich", assets=[large_image:="reyna"], game="VALORANT", details="w gaming", start=datetime.utcnow())
+actstream = discord.Streaming(name="⚠️ UPDATE NOTICE AT BIO", url="https://twitch.tv/qing762", platform="Twich", assets=[large_image:="reyna"], game="VALORANT", details="w gaming", start=datetime.utcnow())
 bot = commands.Bot(command_prefix=get_prefix, intents=intents, case_insensitive=True, help_command=None)
 # dc = discloud.Client(discloudapitoken)
 
