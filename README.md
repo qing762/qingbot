@@ -1,3 +1,7 @@
+<h1 align=center>
+ <a href = "https://github.com/qing762/qingbot/wiki/What-happened-to-the-bot%3F">WHAT HAPPENED?</a>
+</h1>
+
 > ~~:warning: **Update attention for qingBot**: Please be advised that our bot will be undergoing an update in early June 2023 to comply with Discord's unique username update. Do expect some new commands may be added to the bot. Please note that some downtime for the bot may occur during the update period. Thanks for your patience! In the meantime, you may consider cloning the bot for temporary usage.~~
 
 > ~~⚠️: **Deprecation of VALORANT related commands**: Do note that commands related to VALORANT would not be maintained anymore with the upcoming update on qingBot. Sorry for the inconvinience caused. Thank you!~~
