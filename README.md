@@ -98,7 +98,7 @@ Feel free to modify the codings. You can also make a [pull request](https://gith
 
 Some commands are removed from the code and are kept private due to privacy issues.
 
-#### Why not make the commands as cogs?
+#### Maybe grouping the commands?
 
 It is now. Cogs are available in the V2 version!
 
